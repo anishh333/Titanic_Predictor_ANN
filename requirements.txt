@@ -1,6 +1,6 @@
 plotly
 streamlit==1.57.0
-tensorflow>=2.16.1,<=2.16.2
+tensorflow<=2.16.1
 numpy<2.0.0
 pandas
 scikit-learn
