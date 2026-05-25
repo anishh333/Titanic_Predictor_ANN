@@ -1,0 +1,6 @@
+streamlit==1.57.0
+tensorflow==2.15.1
+numpy
+pandas
+scikit-learn
+plotly>=5.15.0
